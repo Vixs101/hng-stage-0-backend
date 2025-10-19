@@ -115,22 +115,6 @@ This API can be deployed to:
 
 **Note:** Vercel and Render are not allowed.
 
-### Deployment Steps (Railway Example):
-
-1. Install Railway CLI:
-```bash
-npm install -g @railway/cli
-```
-
-2. Login and deploy:
-```bash
-railway login
-railway init
-railway up
-```
-
-3. Set environment variables in Railway dashboard
-
 ## 🔒 Security Features
 
 - Rate limiting (30 requests/minute per IP)
