@@ -1,4 +1,4 @@
-# Backend Wizards - Stage 0: Dynamic Profile API
+# HNG Backend - Stage 0: Dynamic Profile API
 
 A RESTful API endpoint that returns profile information with dynamic cat facts from an external API.
 
