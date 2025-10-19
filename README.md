@@ -20,8 +20,8 @@ A RESTful API endpoint that returns profile information with dynamic cat facts f
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd backend-wizards-stage0
+git clone https://github.com/Vixs101/hng-stage-0-backend
+cd hng-stage-0-backend
 ```
 
 2. Install dependencies:
